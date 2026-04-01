@@ -56,8 +56,10 @@ Explore different dashboards and filters
 Interact with visuals to gain insights
 
 📸 Screenshots
+<img width="2292" height="1283" alt="image" src="https://github.com/user-attachments/assets/ccd9224a-ccfe-4bcc-b7b6-4d0ec967b1b0" />
 
-(Add your Power BI dashboard screenshots here)
+
+
 
 📌 Data Cleaning & Transformation
 
