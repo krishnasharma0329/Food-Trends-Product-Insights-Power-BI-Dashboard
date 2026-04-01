@@ -57,6 +57,8 @@ Interact with visuals to gain insights
 
 📸 Screenshots
 <img width="2292" height="1283" alt="image" src="https://github.com/user-attachments/assets/ccd9224a-ccfe-4bcc-b7b6-4d0ec967b1b0" />
+<img width="2303" height="1293" alt="Screenshot 2026-04-01 193402" src="https://github.com/user-attachments/assets/fbf30bfe-3bba-4d13-9138-b9d9a40a0829" />
+<img width="2294" height="1291" alt="Screenshot 2026-04-01 193322" src="https://github.com/user-attachments/assets/5a1abe98-2084-4142-a93e-d23832de5f1e" />
 
 
 
